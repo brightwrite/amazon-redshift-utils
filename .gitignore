@@ -63,3 +63,8 @@ venv/
 # IDE's
 .project
 .idea
+
+.env*
+!*.dist
+data/*
+!.gitkeep
